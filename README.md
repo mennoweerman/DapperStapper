@@ -8,7 +8,7 @@ Het idee van onze game is dat je in het echt door de Dapperbuurt in Amsterdam Oo
 # Geproduceerde Game Onderdelen
 
 Patricia Kuipers:
-  * 
+  * Coming soon
   
 Menno Weerman:
   * 
