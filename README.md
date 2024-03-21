@@ -11,7 +11,7 @@ Patricia Kuipers:
   * Coming soon
   
 Menno Weerman:
-  * 
+  * Coming soon
 
 Bart de Boer:
-  * 
+  * Coming soon
