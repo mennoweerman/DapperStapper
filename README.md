@@ -11,7 +11,15 @@ Patricia Kuipers:
   * Coming soon
   
 Menno Weerman:
-  * Coming soon
+  * [Point Information](https://github.com/mennoweerman/OostQuest/tree/feature/Menno/LocationInfo)
 
 Bart de Boer:
   * Coming soon
+
+## Point Information door Menno Weerman
+
+Als je de point of interest aanklikt, krijg je een widget voor je waarop je informatie krijgt van een mascotte op het scherm. Doormiddel van de next knop kan je naar de volgende slide gaan en meer informatie krijgen en met de previous knop terug gaan naar de slide ervoor
+
+![Visual Sheet Point Information](https://github.com/mennoweerman/OostQuest/assets/70953228/2c3aec7a-5492-426b-9afd-2e60cb7e2ae2)
+
+
