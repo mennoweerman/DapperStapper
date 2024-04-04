@@ -11,7 +11,7 @@ Patricia Kuipers:
   * Coming soon
   
 Menno Weerman:
-  * [Point Information](https://github.com/mennoweerman/OostQuest/tree/feature/Menno/LocationInfo)
+  * [Point Information](https://github.com/mennoweerman/OostQuest/wiki/Blueprints#point-information)
 
 Bart de Boer:
   * Coming soon
