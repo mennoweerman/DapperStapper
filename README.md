@@ -18,17 +18,21 @@ Bart de Boer:
 
 ## Quiz door Patricia Kuipers
 
-Als je een Point of Interest bezoekt en je hebt de informatie ervan gelezen, kun je vervolgens een quiz doen. Aan het einde van de quiz krijg je een collectable. Je kunt de quiz ten allen tijde sluiten. 
+Als je een Point of Interest bezoekt en je hebt de informatie ervan gelezen, kun je vervolgens een quiz doen. Je kunt de quiz ten allen tijde sluiten. 
 
 In de video hieronder zie je de quiz op mobiel:
 
 https://github.com/mennoweerman/OostQuest/assets/54790202/7a91db15-813e-4672-bd04-cdc74cf92742
 
-Als de speler een antwoord kiest, wordt het groen of rood, aan de hand van of het correct was of niet. Als de speler het juiste antwoord geeft, gaat de quiz verder, en anders kan hij het nogmaals proberen. De speler heeft gewoon de mogelijkheid om door te blijven klikken tot hij het goede antwoord heeft, dit om te voorkomen dat het te lastig wordt en/of de speler maar één kans krijgt. 
+Als de speler een antwoord kiest, wordt het groen of rood, aan de hand van of het correct was of niet. Als de speler het juiste antwoord geeft, gaat de quiz verder, en anders kan hij het nogmaals proberen. De speler heeft gewoon de mogelijkheid om door te blijven klikken tot hij het goed heeft, dit om te voorkomen dat het te lastig wordt en/of de speler maar één kans krijgt. 
 
-De quiz is ook volledig instelbaar. Hij kan worden aangepast in de inspector. Daar kun je per locatie (Point of Interest) instellen welke vragen erbij horen en welke collectable je daar kan krijgen. Ook kun je per vraag instellen welke antwoorden erbij horen en per antwoord kiezen of dat het juiste antwoord is of niet. 
+Aan het einde van de quiz krijgt de speler een collectable, die wordt laten zien en draait rond. De speler kan er op tikken om verder te gaan. In de code wordt bijgehouden of de speler deze collectable al heeft, dat zie je ook aan het kopje tekst wat er onder de collectable verschijnt. 
+
+De quiz is ook volledig instelbaar. Hij kan worden aangepast in de inspector.
 
 ![image](https://github.com/mennoweerman/OostQuest/assets/54790202/96603f7d-7aac-4784-9e15-09d9f318ae83)
+
+Je kunt per locatie (Point of Interest) instellen welke vragen erbij horen en welke collectable je daar kan krijgen. Ook kun je per vraag instellen welke antwoorden erbij horen en per antwoord kiezen of dat het juiste antwoord is of niet. 
 
 
 ## Point Information door Menno Weerman
