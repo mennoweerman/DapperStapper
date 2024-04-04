@@ -22,9 +22,9 @@ Als je een Point of Interest bezoekt en je hebt de informatie ervan gelezen, kun
 
 https://github.com/mennoweerman/OostQuest/assets/54790202/7a91db15-813e-4672-bd04-cdc74cf92742
 
-Als de speler een antwoord kiest, wordt het groen of rood, aan de hand van of het correct was of niet. Als de speler het juiste antwoord geeft, gaat de quiz verder, en anders kan hij het nogmaals proberen. Dit is om te voorkomen dat het te lastig wordt en/of de speler maar één kans krijgt. 
+Als de speler een antwoord kiest, wordt het groen of rood, aan de hand van of het correct was of niet. Als de speler het juiste antwoord geeft, gaat de quiz verder, en anders kan hij het nogmaals proberen. De speler heeft gewoon de mogelijkheid om door te blijven klikken tot hij het goede antwoord heeft, dit om te voorkomen dat het te lastig wordt en/of de speler maar één kans krijgt. 
 
-De quiz is volledig instelbaar. Hij wordt ingesteld in de inspector. Daar kun je per locatie (Point of Interest) instellen welke vragen erbij horen en welke collectable je daarvan kan krijgen. Ook kun je per vraag instellen welke antwoorden erbij horen en per antwoord instellen of het het juiste antwoord is of niet. 
+De quiz is ook volledig instelbaar. Hij kan worden aangepast in de inspector. Daar kun je per locatie (Point of Interest) instellen welke vragen erbij horen en welke collectable je daar kan krijgen. Ook kun je per vraag instellen welke antwoorden erbij horen en per antwoord kiezen of dat het juiste antwoord is of niet. 
 
 ![image](https://github.com/mennoweerman/OostQuest/assets/54790202/96603f7d-7aac-4784-9e15-09d9f318ae83)
 
