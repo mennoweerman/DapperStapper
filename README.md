@@ -16,6 +16,14 @@ Menno Weerman:
 Bart de Boer:
   * Coming soon
 
+## Quiz door Patricia Kuipers
+
+
+
+https://github.com/mennoweerman/OostQuest/assets/54790202/7a91db15-813e-4672-bd04-cdc74cf92742
+
+
+
 ## Point Information door Menno Weerman
 
 Als je de point of interest aanklikt, krijg je een widget voor je waarop je informatie krijgt van een mascotte op het scherm. Doormiddel van de next knop kan je naar de volgende slide gaan en meer informatie krijgen en met de previous knop terug gaan naar de slide ervoor.
