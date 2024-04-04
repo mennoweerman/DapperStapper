@@ -20,6 +20,8 @@ Bart de Boer:
 
 Als je een Point of Interest bezoekt en je hebt de informatie ervan gelezen, kun je vervolgens een quiz doen. Aan het einde van de quiz krijg je een collectable. Je kunt de quiz ten allen tijde sluiten. 
 
+In de video hieronder zie je de quiz op mobiel:
+
 https://github.com/mennoweerman/OostQuest/assets/54790202/7a91db15-813e-4672-bd04-cdc74cf92742
 
 Als de speler een antwoord kiest, wordt het groen of rood, aan de hand van of het correct was of niet. Als de speler het juiste antwoord geeft, gaat de quiz verder, en anders kan hij het nogmaals proberen. De speler heeft gewoon de mogelijkheid om door te blijven klikken tot hij het goede antwoord heeft, dit om te voorkomen dat het te lastig wordt en/of de speler maar één kans krijgt. 
