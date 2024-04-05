@@ -8,7 +8,7 @@ Het idee van onze game is dat je in het echt door de Dapperbuurt in Amsterdam Oo
 # Geproduceerde Game Onderdelen
 
 Patricia Kuipers:
-  * Coming soon
+  * [Quiz](https://github.com/mennoweerman/OostQuest/wiki/Blueprints#quiz)
   
 Menno Weerman:
   * [Point Information](https://github.com/mennoweerman/OostQuest/wiki/Blueprints#point-information)
