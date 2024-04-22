@@ -1,16 +1,15 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.27",
+	"EngineAssociation": "5.3",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "LocationServicesAndroidImpl",
-			"Enabled": true
-		},
-		{
-			"Name": "LocationServicesIOSImpl",
-			"Enabled": true
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
 		}
 	]
 }
