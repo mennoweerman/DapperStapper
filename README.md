@@ -14,7 +14,7 @@ Patricia Kuipers:
   * [Quiz](https://github.com/mennoweerman/OostQuest/wiki/Blueprints#quiz)
     
 Bart de Boer:
-  * Coming soon
+  * [Inventaris](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#-inventaris)
 
 ## Point Information door Menno Weerman
 
@@ -40,4 +40,10 @@ De quiz is ook volledig instelbaar. Hij kan worden aangepast in de inspector.
 
 Je kunt per locatie (Point of Interest) instellen welke vragen erbij horen en welke collectable je daar kan krijgen. Ook kun je per vraag instellen welke antwoorden erbij horen en per antwoord kiezen of dat het juiste antwoord is of niet. 
 
+## Inventaris door Bart de Boer
+
+Deze feature is een inventaris waarin je kan zien welke collectables je al gevonden hebt in de game. Waneer je op de inventaris knop drukt komt er een plane over de gameplay waardoor je alleen nog maar de inventaris, collectables en de knop ziet waarmee je de inventaris sluit.
+
+![InventarisSheet1](https://github.com/mennoweerman/DapperStapper/assets/70643398/b0c98dbb-72f7-405b-a611-5004b5b840dc)
+![InventarisSheet2](https://github.com/mennoweerman/DapperStapper/assets/70643398/4975c33d-0bf5-47fc-a4f0-c756c080409c)
 
