@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.27",
+	"EngineAssociation": "{0004AD09-08DC-57DE-280D-7648AA64CD39}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -13,7 +13,16 @@
 			"Enabled": true
 		},
 		{
-			"Name": "OpenXREyeTracker",
+			"Name": "SteamVR",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64",
+				"Linux"
+			]
+		},
+		{
+			"Name": "OpenXRHandTracking",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
 				"Win32",
@@ -24,7 +33,7 @@
 			]
 		},
 		{
-			"Name": "OpenXRHandTracking",
+			"Name": "OpenXREyeTracker",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
 				"Win32",
@@ -52,15 +61,6 @@
 				"Win32",
 				"Win64",
 				"Android"
-			]
-		},
-		{
-			"Name": "SteamVR",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Win32",
-				"Win64",
-				"Linux"
 			]
 		}
 	]
