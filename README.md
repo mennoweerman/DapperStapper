@@ -3,7 +3,7 @@
 In deze repository vind je de informatie over het project Dapper Stapper.
 
 De opdracht is om een game te maken voor de klant gemeente Amsterdam. Het doel voor de klant is om een game te hebben waarmee ze nieuwe collega's binnen Amsterdam Oost een leuke rondleiding door de stad kunnen geven.
-Het idee van onze game is dat je in het echt door de Dapperbuurt in Amsterdam Oost loopt en dan in de game kan zien waar je bent en een soort speurtocht volgt via instructies. De instructies zien er bijvoorbeeld zo uit: "volg nu de rode deur". 
+Het idee van onze game is dat je in het echt door de Dapperbuurt in Amsterdam Oost loopt en dan in de game kan zien waar je bent en een soort speurtocht volgt via instructies. De instructies zien er bijvoorbeeld zo uit: "ga nu richting de rode deur". 
 
 # Geproduceerde Game Onderdelen
   
@@ -11,7 +11,9 @@ Menno Weerman:
   * [Point Information](https://github.com/mennoweerman/OostQuest/wiki/Blueprints#point-information)
 
 Patricia Kuipers:
-  * [Quiz](https://github.com/mennoweerman/OostQuest/wiki/Blueprints#quiz)
+  * [Quiz](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#-quiz)
+  * [Hints](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#-hints)
+  * [Collectables]
     
 Bart de Boer:
   * [Inventaris](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#-inventaris)
@@ -22,7 +24,7 @@ Als je de point of interest aanklikt, krijg je een widget voor je waarop je info
 
 ![Visual Sheet Point Information](https://github.com/mennoweerman/OostQuest/assets/70953228/2c3aec7a-5492-426b-9afd-2e60cb7e2ae2)
 
-## Quiz door Patricia Kuipers
+## Quiz, Hints & Collectables door Patricia Kuipers
 
 Als je een Point of Interest bezoekt en je hebt de informatie ervan gelezen, kun je vervolgens een quiz doen. Je kunt de quiz ten allen tijde sluiten. 
 
