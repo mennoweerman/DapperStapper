@@ -13,7 +13,7 @@ Menno Weerman:
 Patricia Kuipers:
   * [Quiz](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#-quiz)
   * [Hints](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#-hints)
-  * [Collectables]
+  * Collectables - Code te vinden bij [Quiz](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#-quiz)
     
 Bart de Boer:
   * [Inventaris](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#-inventaris)
