@@ -34,6 +34,8 @@ https://github.com/mennoweerman/DapperStapper/assets/54790202/0343c2c0-0353-41f8
 
 Eerst tikt de speler een punt aan en krijgt informatie. Nadat de informatie is doorgelezen, krijgt hij als er geen quiz bij dit punt hoort, de hint om het volgende punt te vinden. Dit is een tekstje met een model erbij van iets wat hij in het echt kan zoeken.
 
+Mocht de speler verdwaalt zijn geraakt of zijn vorige hint vergeten zijn, dan kan hij altijd linksboven op het knopje drukken om de vorige hint nogmaals op het scherm te laten zien.
+
 Bij sommige punten hoort wel een quiz, dus als de speler op een punt met quiz tikt en de informatie heeft doorgelezen, krijgt hij vervolgens de quiz voor zich. Als hij een antwoord kiest, wordt het groen of rood, aan de hand van of het correct was of niet. Als de speler het juiste antwoord geeft, gaat de quiz verder, en anders kan hij het nogmaals proberen. De speler heeft gewoon de mogelijkheid om door te blijven klikken tot hij het goed heeft, dit om te voorkomen dat het te lastig wordt en/of de speler maar één kans krijgt. 
 
 Aan het einde van de quiz krijgt de speler een collectable, die wordt laten zien en draait rond, net zoals de hint. De speler kan er op tikken om verder te gaan. In de code wordt bijgehouden of de speler deze collectable al heeft, dat zie je ook aan het kopje tekst wat er onder de collectable verschijnt. 
