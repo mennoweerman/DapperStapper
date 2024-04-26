@@ -46,4 +46,6 @@ Deze feature is een inventaris waarin je kan zien welke collectables je al gevon
 
 ![InventarisSheet1](https://github.com/mennoweerman/DapperStapper/assets/70643398/b0c98dbb-72f7-405b-a611-5004b5b840dc)
 ![InventarisSheet2](https://github.com/mennoweerman/DapperStapper/assets/70643398/4975c33d-0bf5-47fc-a4f0-c756c080409c)
+![Inventory](https://github.com/mennoweerman/DapperStapper/assets/70643398/7028ed6b-d269-484c-828a-e3033ea400df)
+
 
