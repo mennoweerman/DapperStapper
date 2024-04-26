@@ -28,19 +28,33 @@ Als je de point of interest aanklikt, krijg je een widget voor je waarop je info
 
 Als je een Point of Interest bezoekt en je hebt de informatie ervan gelezen, kun je vervolgens een quiz doen. Je kunt de quiz ten allen tijde sluiten. 
 
-In de video hieronder zie je de quiz op mobiel:
+In de video hieronder zie je de Quiz, de Hints en de Collectables:
 
-https://github.com/mennoweerman/OostQuest/assets/54790202/7a91db15-813e-4672-bd04-cdc74cf92742
+https://github.com/mennoweerman/DapperStapper/assets/54790202/0343c2c0-0353-41f8-9936-695f995e470e
 
-Als de speler een antwoord kiest, wordt het groen of rood, aan de hand van of het correct was of niet. Als de speler het juiste antwoord geeft, gaat de quiz verder, en anders kan hij het nogmaals proberen. De speler heeft gewoon de mogelijkheid om door te blijven klikken tot hij het goed heeft, dit om te voorkomen dat het te lastig wordt en/of de speler maar één kans krijgt. 
+Eerst tikt de speler een punt aan en krijgt informatie. Nadat de informatie is doorgelezen, krijgt hij als er geen quiz bij dit punt hoort, de hint om het volgende punt te vinden. Dit is een tekstje met een model erbij van iets wat hij in het echt kan zoeken.
 
-Aan het einde van de quiz krijgt de speler een collectable, die wordt laten zien en draait rond. De speler kan er op tikken om verder te gaan. In de code wordt bijgehouden of de speler deze collectable al heeft, dat zie je ook aan het kopje tekst wat er onder de collectable verschijnt. 
+Bij sommige punten hoort wel een quiz, dus als de speler op een punt met quiz tikt en de informatie heeft doorgelezen, krijgt hij vervolgens de quiz voor zich. Als hij een antwoord kiest, wordt het groen of rood, aan de hand van of het correct was of niet. Als de speler het juiste antwoord geeft, gaat de quiz verder, en anders kan hij het nogmaals proberen. De speler heeft gewoon de mogelijkheid om door te blijven klikken tot hij het goed heeft, dit om te voorkomen dat het te lastig wordt en/of de speler maar één kans krijgt. 
 
-De quiz is ook volledig instelbaar. Hij kan worden aangepast in de inspector.
+Aan het einde van de quiz krijgt de speler een collectable, die wordt laten zien en draait rond, net zoals de hint. De speler kan er op tikken om verder te gaan. In de code wordt bijgehouden of de speler deze collectable al heeft, dat zie je ook aan het kopje tekst wat er onder de collectable verschijnt. 
+
+De quiz is volledig instelbaar. Hij kan worden aangepast in de inspector.
 
 ![image](https://github.com/mennoweerman/OostQuest/assets/54790202/96603f7d-7aac-4784-9e15-09d9f318ae83)
 
 Je kunt per locatie (Point of Interest) instellen welke vragen erbij horen en welke collectable je daar kan krijgen. Ook kun je per vraag instellen welke antwoorden erbij horen en per antwoord kiezen of dat het juiste antwoord is of niet. 
+
+![SplineInspector01](https://github.com/mennoweerman/DapperStapper/assets/54790202/cad04d21-f2c7-497b-a199-97a8b55d7d11)
+
+De hints zijn instelbaar aan de hand van (X,Y,Z) waardes die je in een Map zet (punt 1). Daarbij kun je de tekst van de hint (punt 2) instellen en de mesh die er bij de hint op het scherm komt te staan (punt 3). 
+
+![SplineInspector01](https://github.com/mennoweerman/DapperStapper/assets/54790202/3c862610-96e4-46fa-a26f-05834300a2f3)
+
+Het is makkelijk om de juiste (X,Y,Z) waardes te krijgen door gebruik te maken van de punten op de spline die langs de hele route loopt. Je kunt deze punten selecteren en gemakkelijk hun positie copy-pasten om te gebruiken voor de hints. 
+
+![Spline](https://github.com/mennoweerman/DapperStapper/assets/54790202/c0490954-6c20-40cc-b3ae-bd4f518b47ac)
+
+Hier zie je de spline in detail. Alle witte puntjes die erop zitten zijn punten waarvan je de coordinaten makkelijk kan kopiëren en gebruiken voor hints, maar je kunt ze ook verplaatsen en nieuwe punten op de spline aanmaken.
 
 ## Inventaris door Bart de Boer
 
