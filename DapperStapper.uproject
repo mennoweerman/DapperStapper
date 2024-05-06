@@ -13,10 +13,6 @@
 			"Enabled": true
 		},
 		{
-<<<<<<< HEAD
-			"Name": "GeoReferencing",
-			"Enabled": true
-=======
 			"Name": "SteamVR",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
@@ -66,7 +62,6 @@
 				"Win64",
 				"Android"
 			]
->>>>>>> fcdfc81c8eb584e8fdb9068bd0b2882297bb24e0
 		}
 	]
 }
