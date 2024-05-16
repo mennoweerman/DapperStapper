@@ -17,6 +17,8 @@ Patricia Kuipers:
     
 Bart de Boer:
   * [Inventaris](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#-inventaris)
+  * [GPS berekening]()
+  * [Inventaris update](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints-%E2%80%90-Bart#-inventaris-update)
 
 ## Point Information door Menno Weerman
 
@@ -65,5 +67,19 @@ Deze feature is een inventaris waarin je kan zien welke collectables je al gevon
 ![InventarisSheet1](https://github.com/mennoweerman/DapperStapper/assets/70643398/b0c98dbb-72f7-405b-a611-5004b5b840dc)
 ![InventarisSheet2](https://github.com/mennoweerman/DapperStapper/assets/70643398/4975c33d-0bf5-47fc-a4f0-c756c080409c)
 ![Inventory](https://github.com/mennoweerman/DapperStapper/assets/70643398/7028ed6b-d269-484c-828a-e3033ea400df)
+
+## GPS berekening door Bart de Boer  
+
+Ik heb de berekening voor het omrekenen van gps coordinaten naar Unreal coordinaten geschreven. Documtatie daarover is hier te vinden: 
+
+
+## Inventaris update door Bart de Boer
+
+Later in het project heb ik de inventaris herschreven. Het gebruikt nu twee pagina's en de code is reusable.
+
+![InventoryUpdate](https://github.com/mennoweerman/DapperStapper/assets/70643398/a074018e-464c-4252-872b-4e25a9730967)
+![Inventoryupdate](https://github.com/mennoweerman/DapperStapper/assets/70643398/e0afd120-6056-42ba-bd23-dc6fdf76a6c8)
+
+
 
 
