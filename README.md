@@ -9,6 +9,12 @@ Het idee van onze game is dat je in het echt door de Dapperbuurt in Amsterdam Oo
   
 Menno Weerman:
   * [Point Information](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#-point-information)
+  * [Gps](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#-point-information)
+  * [Game Intro](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#-point-information)
+  * [Main Menu](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#-point-information)
+  * [Mini Game](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#-point-information)
+  * [New Game](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#-point-information)
+      
 
 Patricia Kuipers:
   * [Quiz](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#-quiz)
@@ -22,9 +28,43 @@ Bart de Boer:
 
 ## Point Information door Menno Weerman
 
-Als je de point of interest aanklikt, krijg je een widget voor je waarop je informatie krijgt van een mascotte op het scherm. Doormiddel van de next knop kan je naar de volgende slide gaan en meer informatie krijgen en met de previous knop terug gaan naar de slide ervoor.
+Als je de point of interest aanklikt, krijg je een widget voor je waarop je informatie krijgt van een mascotte op het scherm. Doormiddel van de next knop kan je naar de volgende slide gaan en meer informatie krijgen en met de previous knop terug gaan naar de slide ervoor. Hierin vertelt de mascotte wat over de locatie
 
 ![Visual Sheet Point Information](https://github.com/mennoweerman/OostQuest/assets/70953228/2c3aec7a-5492-426b-9afd-2e60cb7e2ae2)
+
+## GPS door Menno Weerman
+
+Gebaseerd op de gps locatie beweegt het poppetje naar de goeie locatie op de kaart. Dit is gemaakt om het een echte wandelsimulatie te maken. Voor meer informatie klik hier: https://github.com/mennoweerman/DapperStapper/wiki/Technisch-Ontwerp#gps
+
+
+## Game Intro door Menno Weerman
+
+Als je een nieuwe game opstart, komt pieter paaltje in je beeld en geeft je uitleg over de dapperbuurt. Als je dit afgerond hebt begint het spel.
+
+![image](https://github.com/mennoweerman/DapperStapper/assets/70953228/02c9244c-bab1-445b-b376-bc4150e48098)
+
+## Main Menu door Menno Weerman
+
+Als je de game opstart, komt de main menu op het scherm, als je nog geen save hebt staan er 2 knoppen. Een om de game te starten en een om het spel af te sluiten. 
+![image](https://github.com/mennoweerman/DapperStapper/assets/70953228/65b497fa-c1a1-420d-b225-9484cd3a86f3)
+Mocht je wel een save hebben, dan heb je een om een nieuwe game te starten, een button om verder te gaan met de huidige save en een om het spel af te sluiten.
+
+![image](https://github.com/mennoweerman/DapperStapper/assets/70953228/3fe00ee9-6473-48fd-8aab-f5bbad4b80fa)
+
+
+## Mini Game door Menno Weerman
+
+Als je bij de dappermarkt bent, dan zal je een minigame krijgen voor het tellen van de reigers. Dit hebben we om de game leuk te houden en proberen de meeste reigers te tellen. Dit word opgeslagen in een aparte save file dus de high score van het tellen wordt opgeslagen op het apparaat.
+
+![image](https://github.com/mennoweerman/DapperStapper/assets/70953228/994c1562-4f32-4fc7-a9a6-76c596b90283)
+
+## New Game door Menno Weerman
+
+Als je op de knop klikt. Word je oude save verwijdert en een nieuwe aangemaakt en gebruikt.
+
+![image](https://github.com/mennoweerman/DapperStapper/assets/70953228/d8422a75-d622-42fb-92a3-4630535773e8)
+
+
 
 ## Quiz, Hints & Collectables door Patricia Kuipers
 
