@@ -118,10 +118,9 @@ Ik heb de berekening voor het omrekenen van gps coordinaten naar Unreal coordina
 
 Later in het project heb ik de inventaris herschreven. Het gebruikt nu twee pagina's en de code is reusable.
 
-![InventoryUpdate](https://github.com/mennoweerman/DapperStapper/assets/70643398/a074018e-464c-4252-872b-4e25a9730967)
-![Inventoryupdate](https://github.com/mennoweerman/DapperStapper/assets/70643398/e0afd120-6056-42ba-bd23-dc6fdf76a6c8)
-![InventoryUpdateMeshes](https://github.com/mennoweerman/DapperStapper/assets/70643398/63b55e43-386b-45f3-9
-e54-42e4d8d29d70)
+![InventoryUpdate](https://github.com/mennoweerman/DapperStapper/assets/70643398/a074018e-464c-4252-872b-4e25a9730967)  
+![Inventoryupdate](https://github.com/mennoweerman/DapperStapper/assets/70643398/e0afd120-6056-42ba-bd23-dc6fdf76a6c8)  
+![InventoryUpdateMeshes](https://github.com/mennoweerman/DapperStapper/assets/70643398/63b55e43-386b-45f3-9e54-42e4d8d29d70)
 
 
 ## Game Ending door Bart de Boer
