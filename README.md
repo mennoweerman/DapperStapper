@@ -127,3 +127,4 @@ Later in het project heb ik de inventaris herschreven. Het gebruikt nu twee pagi
 
 Als je alle collectables hebt gevonden en je weer bij het gemeentehuis bent, komt het einde van de game tevoorzijn. Pieter zegt dat je het spel hebt gewonnen en er komt een knop die je naar het hoofdmenu stuurt.
 
+![Ending](https://github.com/mennoweerman/DapperStapper/assets/70643398/7b388df2-36de-4442-b329-5ff5af401265)
