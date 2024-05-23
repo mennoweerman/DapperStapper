@@ -25,6 +25,7 @@ Bart de Boer:
   * [Inventaris](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#-inventaris)
   * [GPS berekening](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints-%E2%80%90-Bart#-gps)
   * [Inventaris update](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints-%E2%80%90-Bart#-inventaris-update)
+  * [Game Ending]()
 
 ## Point Information door Menno Weerman
 
@@ -121,5 +122,7 @@ Later in het project heb ik de inventaris herschreven. Het gebruikt nu twee pagi
 ![Inventoryupdate](https://github.com/mennoweerman/DapperStapper/assets/70643398/e0afd120-6056-42ba-bd23-dc6fdf76a6c8)
 
 
+## Game Ending door Bart de Boer
 
+Als je alle collectables hebt gevonden en je weer bij het gemeentehuis bent, komt het einde van de game tevoorzijn. Pieter zegt dat je het spel hebt gewonnen en er komt een knop die je naar het hoofdmenu stuurt.
 
