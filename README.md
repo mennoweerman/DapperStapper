@@ -88,17 +88,16 @@ De quiz is volledig instelbaar. Hij kan worden aangepast in de inspector.
 
 Je kunt per locatie (Point of Interest) instellen welke vragen erbij horen en welke collectable je daar kan krijgen. Ook kun je per vraag instellen welke antwoorden erbij horen en per antwoord kiezen of dat het juiste antwoord is of niet. 
 
-![SplineInspector01](https://github.com/mennoweerman/DapperStapper/assets/54790202/cad04d21-f2c7-497b-a199-97a8b55d7d11)
+![image](https://github.com/mennoweerman/DapperStapper/assets/54790202/c1d6a021-1596-4a74-917f-e149036c7e1e)
 
-De hints zijn instelbaar aan de hand van (X,Y,Z) waardes die je in een Map zet (punt 1). Daarbij kun je de tekst van de hint (punt 2) instellen en de mesh die er bij de hint op het scherm komt te staan (punt 3). 
+Bij een punt kun je instellen of je hierna een collectable, informatie of een minigame krijgt. Zie nummer 0.
 
-![SplineInspector01](https://github.com/mennoweerman/DapperStapper/assets/54790202/3c862610-96e4-46fa-a26f-05834300a2f3)
+De teksten voor de hints zijn instelbaar aan de hand van de LocationHintText waardes die je in de Map zet (punt 1). De modellen van de hints die je krijgt zijn in te stellen, je hebt zowel een optie voor een ongeanimeert als een wel geanimeert model (punt 2). Ten slotte kun je hier ook de schaal van het model invullen waarmee hij op het scherm moet komen te staan (punt 3).
 
-Het is makkelijk om de juiste (X,Y,Z) waardes te krijgen door gebruik te maken van de punten op de spline die langs de hele route loopt. Je kunt deze punten selecteren en gemakkelijk hun positie copy-pasten om te gebruiken voor de hints. 
+## Menu's Sluiten door Patricia Kuipers
 
-![Spline](https://github.com/mennoweerman/DapperStapper/assets/54790202/c0490954-6c20-40cc-b3ae-bd4f518b47ac)
 
-Hier zie je de spline in detail. Alle witte puntjes die erop zitten zijn punten waarvan je de coordinaten makkelijk kan kopiëren en gebruiken voor hints, maar je kunt ze ook verplaatsen en nieuwe punten op de spline aanmaken.
+
 
 ## Inventaris door Bart de Boer
 
