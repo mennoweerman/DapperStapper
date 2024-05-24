@@ -68,6 +68,8 @@ Als je op de knop klikt. Word je oude save verwijdert en een nieuwe aangemaakt e
 
 ## Quiz, Hints & Collectables door Patricia Kuipers
 
+[Zie Technisch Ontwerp voor meer informatie...](https://github.com/mennoweerman/DapperStapper/wiki/Technisch-Ontwerp#quiz-hints--collectables-)
+
 Als je een Point of Interest bezoekt en je hebt de informatie ervan gelezen, kun je vervolgens een quiz doen. Je kunt de quiz ten allen tijde sluiten. 
 
 In de video hieronder zie je de Quiz, de Hints en de Collectables:
