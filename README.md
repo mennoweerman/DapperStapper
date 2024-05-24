@@ -86,7 +86,7 @@ De quiz is volledig instelbaar. Hij kan worden aangepast in de inspector.
 
 ![image](https://github.com/mennoweerman/DapperStapper/assets/54790202/7a343eb4-7637-4b0e-a6f9-c50aa5ffd6d9)
 
-Je kunt per locatie (Point of Interest) instellen welke vragen erbij horen en welke collectable je daar kan krijgen. Ook kun je per vraag instellen welke antwoorden erbij horen en per antwoord kiezen of dat het juiste antwoord is of niet. 
+Er staan vragen van de quiz in (punt 1). Ook staan alle antwoorden hierin (punt 2) en kun je instellen of een antwoord klopt of niet (punt 3). Hier kun je ook instellen welke animatie Pieter Paaltje in de quiz moet afspelen (punt 4), en ten slotte heb je alle instellingen voor de collectable die je krijgt bij de quiz. Deze zijn als volgt: het model van de collectable (punt 5), de schaal waarmee hij op het scherm moet staan (punt 6) en of je hem al hebt of niet (punt 7). 
 
 ![image](https://github.com/mennoweerman/DapperStapper/assets/54790202/c1d6a021-1596-4a74-917f-e149036c7e1e)
 
