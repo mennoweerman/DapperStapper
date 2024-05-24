@@ -24,7 +24,7 @@ Patricia Kuipers:
 Bart de Boer:
   * [Inventaris en de meerdere updates ervan](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#bp_inventory)
   * [GPS berekening](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#topdowncharacter)
-  * [Game Ending]()
+  * [Game Ending](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#bp_pointofinterest)
 
 ## Point Information door Menno Weerman
 
