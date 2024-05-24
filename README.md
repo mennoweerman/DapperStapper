@@ -41,30 +41,28 @@ Gebaseerd op de gps locatie beweegt het poppetje naar de goeie locatie op de kaa
 
 Als je een nieuwe game opstart, komt pieter paaltje in je beeld en geeft je uitleg over de dapperbuurt. Als je dit afgerond hebt begint het spel.
 
-![image](https://github.com/mennoweerman/DapperStapper/assets/70953228/02c9244c-bab1-445b-b376-bc4150e48098)
+![GameIntroPhoto](https://github.com/mennoweerman/DapperStapper/assets/70953228/340fedc5-3860-4f86-8f65-fdcccfbdf183)
 
 ## Main Menu door Menno Weerman
 
 Als je de game opstart, komt de main menu op het scherm, als je nog geen save hebt staan er 2 knoppen. Een om de game te starten en een om het spel af te sluiten. 
-![image](https://github.com/mennoweerman/DapperStapper/assets/70953228/65b497fa-c1a1-420d-b225-9484cd3a86f3)
+![NoSavePhoto](https://github.com/mennoweerman/DapperStapper/assets/70953228/76e5ce1a-e010-49dc-937e-91bb83e1ed53)
+
 Mocht je wel een save hebben, dan heb je een om een nieuwe game te starten, een button om verder te gaan met de huidige save en een om het spel af te sluiten.
 
-![image](https://github.com/mennoweerman/DapperStapper/assets/70953228/3fe00ee9-6473-48fd-8aab-f5bbad4b80fa)
-
+![SavePhoto](https://github.com/mennoweerman/DapperStapper/assets/70953228/6acbf850-5b77-4a6b-ad81-f83a96487fcc)
 
 ## Mini Game door Menno Weerman
 
 Als je bij de dappermarkt bent, dan zal je een minigame krijgen voor het tellen van de reigers. Dit hebben we om de game leuk te houden en proberen de meeste reigers te tellen. Dit word opgeslagen in een aparte save file dus de high score van het tellen wordt opgeslagen op het apparaat.
 
-![image](https://github.com/mennoweerman/DapperStapper/assets/70953228/994c1562-4f32-4fc7-a9a6-76c596b90283)
+![MiniGamePhoto](https://github.com/mennoweerman/DapperStapper/assets/70953228/366c2413-93b6-46c1-a544-133153f3a3c7)
 
 ## New Game door Menno Weerman
 
 Als je op de knop klikt. Word je oude save verwijdert en een nieuwe aangemaakt en gebruikt.
 
-![image](https://github.com/mennoweerman/DapperStapper/assets/70953228/d8422a75-d622-42fb-92a3-4630535773e8)
-
-
+![SavePhoto](https://github.com/mennoweerman/DapperStapper/assets/70953228/9de1868d-102a-4758-a391-86ae821ad165)
 
 ## Quiz, Hints & Collectables door Patricia Kuipers
 
