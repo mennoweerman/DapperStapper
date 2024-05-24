@@ -22,9 +22,8 @@ Patricia Kuipers:
   * Collectables - Code te vinden bij [Quiz](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#-quiz)
     
 Bart de Boer:
-  * [Inventaris](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#-inventaris)
-  * [GPS berekening](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints-%E2%80%90-Bart#-gps)
-  * [Inventaris update](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints-%E2%80%90-Bart#-inventaris-update)
+  * [Inventaris en de meerdere updates ervan](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#bp_inventory)
+  * [GPS berekening](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#topdowncharacter)
   * [Game Ending]()
 
 ## Point Information door Menno Weerman
