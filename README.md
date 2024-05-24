@@ -96,8 +96,9 @@ De teksten voor de hints zijn instelbaar aan de hand van de LocationHintText waa
 
 ## Menu's Sluiten door Patricia Kuipers
 
+Ik heb code gemaakt voor het sluiten van menu's. Deze code zorgt ervoor dat de sluitknop waar hij ook op staat, zichzelf en zijn menu van het scherm verwijdert. Ook zorgt het ervoor dat als je een menu met een collectable afsluit, de collectable eerst aan je inventaris toegevoegd wordt.
 
-
+https://github.com/mennoweerman/DapperStapper/assets/54790202/4c8f276a-5a46-4644-960d-b218e404e3b5
 
 ## Inventaris door Bart de Boer
 
