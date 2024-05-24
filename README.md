@@ -17,9 +17,9 @@ Menno Weerman:
       
 
 Patricia Kuipers:
-  * [Quiz](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#-quiz](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#bp_quizmanager)
-  * [Hints](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#-hints](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#bp_mapspline)
-  * [Collectables](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#-quiz](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#wbp_collectableacquired)
+  * [Quiz](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#bp_quizmanager)
+  * [Hints](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#bp_mapspline)
+  * [Collectables](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#wbp_collectableacquired)
     
 Bart de Boer:
   * [Inventaris en de meerdere updates ervan](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#bp_inventory)
