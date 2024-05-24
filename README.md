@@ -82,9 +82,13 @@ Bij sommige punten hoort wel een quiz, dus als de speler op een punt met quiz ti
 
 Aan het einde van de quiz krijgt de speler een collectable, die wordt laten zien en draait rond, net zoals de hint. De speler kan er op tikken om verder te gaan. In de code wordt bijgehouden of de speler deze collectable al heeft, dat zie je ook aan het kopje tekst wat er onder de collectable verschijnt. 
 
+https://github.com/mennoweerman/DapperStapper/assets/54790202/c09c3f5c-e17b-4cac-aed8-1fc2eecedaea
+
 De quiz is volledig instelbaar. Hij kan worden aangepast in de inspector.
 
 ![image](https://github.com/mennoweerman/DapperStapper/assets/54790202/7a343eb4-7637-4b0e-a6f9-c50aa5ffd6d9)
+
+https://github.com/mennoweerman/DapperStapper/assets/54790202/c0b491d2-8ca5-4a0e-9c27-3c75b05906ec
 
 Er staan vragen van de quiz in (punt 1). Ook staan alle antwoorden hierin (punt 2) en kun je instellen of een antwoord klopt of niet (punt 3). Hier kun je ook instellen welke animatie Pieter Paaltje in de quiz moet afspelen (punt 4), en ten slotte heb je alle instellingen voor de collectable die je krijgt bij de quiz. Deze zijn als volgt: het model van de collectable (punt 5), de schaal waarmee hij op het scherm moet staan (punt 6) en of je hem al hebt of niet (punt 7). 
 
@@ -97,6 +101,10 @@ De teksten voor de hints zijn instelbaar aan de hand van de LocationHintText waa
 ## Menu's Sluiten door Patricia Kuipers
 
 Ik heb code gemaakt voor het sluiten van menu's. Deze code zorgt ervoor dat de sluitknop waar hij ook op staat, zichzelf en zijn menu van het scherm verwijdert. Ook zorgt het ervoor dat als je een menu met een collectable afsluit, de collectable eerst aan je inventaris toegevoegd wordt.
+
+
+https://github.com/mennoweerman/DapperStapper/assets/54790202/d0b7ea5b-c3d8-49c5-a096-9d7eb2c18cf9
+
 
 https://github.com/mennoweerman/DapperStapper/assets/54790202/4c8f276a-5a46-4644-960d-b218e404e3b5
 
