@@ -8,8 +8,8 @@ Het idee van onze game is dat je in het echt door de Dapperbuurt in Amsterdam Oo
 # Geproduceerde Game Onderdelen
   
 Menno Weerman:
-  * [Point Information](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#-point-information)
-  * [Gps](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#-point-information)
+  * [Point Information]((https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#bp_pointofinterest))
+  * [Gps]((https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#topdowncharacter))
   * [Game Intro](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#-point-information)
   * [Main Menu](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#-point-information)
   * [Mini Game](https://github.com/mennoweerman/DapperStapper/wiki/Blueprints#-point-information)
