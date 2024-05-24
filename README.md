@@ -84,7 +84,7 @@ Aan het einde van de quiz krijgt de speler een collectable, die wordt laten zien
 
 De quiz is volledig instelbaar. Hij kan worden aangepast in de inspector.
 
-![image](https://github.com/mennoweerman/OostQuest/assets/54790202/96603f7d-7aac-4784-9e15-09d9f318ae83)
+![image](https://github.com/mennoweerman/DapperStapper/assets/54790202/7a343eb4-7637-4b0e-a6f9-c50aa5ffd6d9)
 
 Je kunt per locatie (Point of Interest) instellen welke vragen erbij horen en welke collectable je daar kan krijgen. Ook kun je per vraag instellen welke antwoorden erbij horen en per antwoord kiezen of dat het juiste antwoord is of niet. 
 
