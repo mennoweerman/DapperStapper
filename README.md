@@ -47,6 +47,7 @@ Als je een nieuwe game opstart, komt pieter paaltje in je beeld en geeft je uitl
 ## Main Menu door Menno Weerman
 
 Als je de game opstart, komt de main menu op het scherm, als je nog geen save hebt staan er 2 knoppen. Een om de game te starten en een om het spel af te sluiten. 
+
 ![NoSavePhoto](https://github.com/mennoweerman/DapperStapper/assets/70953228/76e5ce1a-e010-49dc-937e-91bb83e1ed53)
 
 Mocht je wel een save hebben, dan heb je een om een nieuwe game te starten, een button om verder te gaan met de huidige save en een om het spel af te sluiten.
